@@ -2,7 +2,7 @@
   "name": "primeiro_projeto_node",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/BrunoHolmes/primeiro_projeto_node.git",
+  "repository": "https://github.com/BrunoHolmes/iniciando_back_end_goBarber.git",
   "author": "BrunoHolmes <52051840+BrunoHolmes@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
